@@ -1,0 +1,6 @@
+@media (min-width: 768px) { 
+    .oferta{
+        padding: 3rem;
+        background-color: yellow;
+    }
+}
